@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       hallo
-      <img src="images/guts.jpg"></img>
+      <img src="images/guts.jpg" alt="guts"></img>
     </>
   )
 }
